@@ -1,4 +1,4 @@
-[##](##) 👋 Hi, I’m @shashank-github-0001:
+## 👋 Hi, I’m @shashank-github-0001:
 
 * I use Arch Btw
 * I write c++

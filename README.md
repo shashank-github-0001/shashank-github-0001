@@ -15,12 +15,12 @@
 * making tools
 * ethical hacking
 
-##  I’m currently learning:
+###  I’m currently learning:
 
 * rust
 * DevOps
 * systems dev
 
-##  How to reach me:
+###  How to reach me:
 
 * gmail: shashankbharadwaj0001@gmail.com

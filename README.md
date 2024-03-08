@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @shashank-github-0001:
+##  Hi, I’m @shashank-github-0001:
 
 * I use Arch Btw
 * I write c++
@@ -9,18 +9,18 @@
 
 * software engineering
 
-### 👀 I’m interested in:
+###  I’m interested in:
 
 * contributing to opensource
 * making tools
 * ethical hacking
 
-## 🌱 I’m currently learning:
+##  I’m currently learning:
 
 * rust
 * DevOps
 * systems dev
 
-## 📫 How to reach me:
+##  How to reach me:
 
 * gmail: shashankbharadwaj0001@gmail.com

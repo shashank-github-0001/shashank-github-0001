@@ -1,9 +1,8 @@
 ##  Hi, I’m @shashank-github-0001:
 
 * I use Arch Btw
-* I write c++
-* i like window managers desktop environment are for noobs
-* i like to write scipts to make my life easy
+* I like c++
+* I like rust
 
 ### pursuing:
 

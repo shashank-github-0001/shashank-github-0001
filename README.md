@@ -1,25 +1,8 @@
 ##  Hi, I’m @shashank-github-0001:
 
-* I use Arch Btw
-* I like c++
-* I like rust
-
-### pursuing:
-
-* software engineering
-
-###  I’m interested in:
-
-* contributing to opensource
-* making tools
-* ethical hacking
-
-###  I’m currently learning:
-
-* rust
-* DevOps
-* systems dev
-
-###  How to reach me:
-
-* gmail: shashankbharadwaj0001@gmail.com
+### all my info
+- i use arch btw
+- im persuing software engineering
+- i like opensource
+- i like using terminal tools just to look cool
+- my email is: shashankbharadwaj0001@gmail.com
